@@ -79,7 +79,7 @@ const Album = () => {
                 <p className="text-white">
                   <b className="mr-4 text-[#a7a7a7]">{i + 1}</b>
                   <img
-                    src={e.thumbnail.url}
+                     src={e.thumbnail.url}
                     className="inline w-10 mr-5"
                     alt=""
                   />
